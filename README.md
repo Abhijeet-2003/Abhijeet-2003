@@ -1,6 +1,18 @@
 <h1 align="center">Hey there, I'm Abhijeet Sinha</h1>
 <h3 align="center">A passionate full-stack web developer from India.</h3>
 
+```
+global ABJ = {
+  'pronouns': 'he' | 'him',
+  'code': [C++, C, HTML, CSS, JavaScript, Nodejs],
+  'tools': [Bootstrap MongoDB, Reactjs, Nextjs],
+  'techCommunities': {
+                        'Overall Coordinator': "Coding Club IITG",
+                      },
+  'what do I like other than coding?': "Gym, Badminton, Swimming"
+}
+```
+
 - 💬 Ask me about **ReactJs, NodeJs**
 
 - 📫 How to reach me **sinhaabhijeet200@gmail.com**
