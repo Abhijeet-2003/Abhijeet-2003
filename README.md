@@ -2,8 +2,7 @@
 
 #### - A passionate techie from India
 #### - Prev : Networks Intern @NTT-AT
-
-<i>Student at <a href='https://www.iitg.ac.in/'>Indian Institute of Technology, Guwahati 🎓</a></i>
+#### - Final year UG at <a href='https://www.iitg.ac.in/'>Indian Institute of Technology, Guwahati 🎓</a>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-sinha-7069b6223/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhijeet-2003)
