@@ -13,9 +13,9 @@
 ```javascript
 global ABJ = {
   'pronouns': 'he' | 'him',
-  'programming': [C/C++, JavaScript, TypeScript],
-  'webTechnologies': [HTML, CSS, Tailwind, React, Node.js, Next.js, Express, EJS],
-  'database': [MongoDB, Prisma],
+  'programming': [C/C++, Python],
+  'webTechnologies': [JavaScript, React, Node.js, Next.js, TypeScript],
+  'database': [MongoDB, MySQL],
   'techCommunities': {
                         'Overall Coordinator': "Coding Club IITG",
                       },
