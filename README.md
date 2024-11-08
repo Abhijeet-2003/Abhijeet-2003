@@ -1,5 +1,7 @@
 <h2 align="left">Hey there, I'm Abhijeet Sinha!! 💻</h2> 
-<h3 align="left">A passionate full-stack web developer from India.</h3>
+
+#### - A passionate techie from India
+#### - Prev : Networks Intern @NTT-AT
 
 <i>Student at <a href='https://www.iitg.ac.in/'>Indian Institute of Technology, Guwahati 🎓</a></i>
 
