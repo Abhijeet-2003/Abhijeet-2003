@@ -1,7 +1,7 @@
 <h2 align="left">Hey there, I'm Abhijeet Sinha!! 💻</h2> 
 
 #### - A passionate techie from India
-#### - Prev : Networks Intern @NTT-AT
+#### - Prev : Networks Intern @NTT-AT, Tokyo
 #### - Final year UG at <a href='https://www.iitg.ac.in/'>Indian Institute of Technology, Guwahati 🎓</a>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-sinha-7069b6223/)
